@@ -1,0 +1,2 @@
+# Machine-Learning-Model-for-Forecasting-Urban-Crime-Patterns-and-Informing-Resource-Allocation
+This work presents an AI-based crime forecasting system that predicts monthly crime incidents, crime types, and affected age groups using historical city crime data. After preprocessing and smoothing the data, a multi-output model generates accurate forecasts, visualizations, and reports to support safer urban planning and resource allocation.
